@@ -27,3 +27,5 @@ Proje 2
 ---
 
 2. Big O gösterimi= O(nlogn)
+
+[Patika Profil](https://app.patika.dev/vma)
